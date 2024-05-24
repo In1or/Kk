@@ -1,0 +1,124 @@
+{
+  "valid": {
+    "category_id": 3,
+    "title": "title",
+    "content": "content",
+    "price": 300,
+    "old_price": 500,
+    "status": 0,
+    "keywords": "peni",
+    "description": "description",
+    "hit": 1
+  },
+  "valid_id_min": {
+    "category_id": 1,
+    "title": "title",
+    "content": "content",
+    "price": 300,
+    "old_price": 500,
+    "status": 0,
+    "keywords": "peni",
+    "description": "description",
+    "hit": 1
+  },
+  "valid_id_max": {
+    "category_id": 14,
+    "title": "title",
+    "content": "content",
+    "price": 300,
+    "old_price": 500,
+    "status": 0,
+    "keywords": "peni",
+    "description": "description",
+    "hit": 1
+  },
+  "valid_alias": {
+    "category_id": 1,
+    "title": "tak to luchshe",
+    "content": "content",
+    "price": 300,
+    "old_price": 500,
+    "status": 0,
+    "keywords": "peni",
+    "description": "description",
+    "hit": 1
+  },
+  "valid_hit": {
+    "category_id": 5,
+    "title": "title",
+    "content": "content",
+    "price": 300,
+    "old_price": 500,
+    "status": 0,
+    "keywords": "peni",
+    "description": "description",
+    "hit": 1
+  },
+  "valid_hit_min": {
+    "category_id": 5,
+    "title": "title",
+    "content": "content",
+    "price": 300,
+    "old_price": 500,
+    "status": 0,
+    "keywords": "peni",
+    "description": "description",
+    "hit": 0
+  },
+  "null": {},
+  "invalid_id": {
+    "category_id": "nsdbdbhfsdshlkfb",
+    "title": "title",
+    "content": "content",
+    "price": 300,
+    "old_price": 500,
+    "status": 0,
+    "keywords": "peni",
+    "description": "description",
+    "hit": 1
+  },
+  "invalid_hit": {
+    "category_id": 5,
+    "title": "title",
+    "content": "content",
+    "price": 300,
+    "old_price": 500,
+    "status": 0,
+    "keywords": "peni",
+    "description": "description",
+    "hit": "478653.435"
+  },
+  "invalid_price": {
+    "category_id": 5,
+    "title": "title",
+    "content": "content",
+    "price": "sahgfbjldsbfhdshkfb",
+    "old_price": -500,
+    "status": 0,
+    "keywords": "peni",
+    "description": "description",
+    "hit": 1
+  },
+  "invalid_price_string": {
+    "category_id": 5,
+    "title": "title",
+    "content": "content",
+    "price": "stroka?",
+    "old_price": "tohze?",
+    "status": 0,
+    "keywords": "peni",
+    "description": "description",
+    "hit": 1
+  },
+  "invalid_status": {
+    "category_id": 5,
+    "title": "title",
+    "content": "content",
+    "price": 300,
+    "old_price": 500,
+    "status": "34785345.3243254",
+    "keywords": "peni",
+    "description": "description",
+    "hit": 1
+  }
+}

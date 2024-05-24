@@ -1,0 +1,5 @@
+BASE_URL = 'http://shop.qatl.ru/'
+GET_ALL_PRODUCTS = 'api/products'
+DELETE_PRODUCT = 'api/deleteproduct'
+ADD_PRODUCT = 'api/addproduct'
+EDIT_PRODUCT = 'api/editproduct'

@@ -1,0 +1,23 @@
+{
+  "valid": {
+    "login": "igor012345678901",
+    "password": "igor123",
+    "name": "igor",
+    "email": "igor012345678901@gmail.com",
+    "address": "Petrova"
+  },
+  "with_busy_email": {
+    "login": "igor321",
+    "password": "igor321",
+    "name": "igorei",
+    "email": "igor@gmail.com",
+    "address": "Komunisticheskaya"
+  },
+  "with_busy_login": {
+    "login": "igor123",
+    "password": "igor321",
+    "name": "grigorei",
+    "email": "grigorei@gmail.com",
+    "address": "Komunisticheskaya"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1565233-1BE8-488B-ACDA-3B9AA198E07C}|TestsAPI\\TestsAPI.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\TestsAPI.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A1565233-1BE8-488B-ACDA-3B9AA198E07C}|TestsAPI\\TestsAPI.pyproj|solutionrelative:TestsAPI\\TestsAPI.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1565233-1BE8-488B-ACDA-3B9AA198E07C}|TestsAPI\\TestsAPI.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\Controller.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A1565233-1BE8-488B-ACDA-3B9AA198E07C}|TestsAPI\\TestsAPI.pyproj|solutionrelative:TestsAPI\\Controller.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1565233-1BE8-488B-ACDA-3B9AA198E07C}|TestsAPI\\TestsAPI.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\TestData\\exampleData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1565233-1BE8-488B-ACDA-3B9AA198E07C}|TestsAPI\\TestsAPI.pyproj|solutionrelative:TestsAPI\\TestData\\exampleData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1565233-1BE8-488B-ACDA-3B9AA198E07C}|TestsAPI\\TestsAPI.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\conf\\productsForm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1565233-1BE8-488B-ACDA-3B9AA198E07C}|TestsAPI\\TestsAPI.pyproj|solutionrelative:TestsAPI\\conf\\productsForm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1565233-1BE8-488B-ACDA-3B9AA198E07C}|TestsAPI\\TestsAPI.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\conf\\addUpProductForm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1565233-1BE8-488B-ACDA-3B9AA198E07C}|TestsAPI\\TestsAPI.pyproj|solutionrelative:TestsAPI\\conf\\addUpProductForm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1565233-1BE8-488B-ACDA-3B9AA198E07C}|TestsAPI\\TestsAPI.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\conf\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A1565233-1BE8-488B-ACDA-3B9AA198E07C}|TestsAPI\\TestsAPI.pyproj|solutionrelative:TestsAPI\\conf\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "urls.py",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\conf\\urls.py",
+              "RelativeDocumentMoniker": "TestsAPI\\conf\\urls.py",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\conf\\urls.py",
+              "RelativeToolTip": "TestsAPI\\conf\\urls.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-22T10:23:35.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exampleData.json",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\TestData\\exampleData.json",
+              "RelativeDocumentMoniker": "TestsAPI\\TestData\\exampleData.json",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\TestData\\exampleData.json",
+              "RelativeToolTip": "TestsAPI\\TestData\\exampleData.json",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T17:38:55.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller.py",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\Controller.py",
+              "RelativeDocumentMoniker": "TestsAPI\\Controller.py",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\Controller.py",
+              "RelativeToolTip": "TestsAPI\\Controller.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T17:36:23.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "productsForm.json",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\conf\\productsForm.json",
+              "RelativeDocumentMoniker": "TestsAPI\\conf\\productsForm.json",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\conf\\productsForm.json",
+              "RelativeToolTip": "TestsAPI\\conf\\productsForm.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T17:36:10.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "addUpProductForm.json",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\conf\\addUpProductForm.json",
+              "RelativeDocumentMoniker": "TestsAPI\\conf\\addUpProductForm.json",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\conf\\addUpProductForm.json",
+              "RelativeToolTip": "TestsAPI\\conf\\addUpProductForm.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T17:36:11.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestsAPI.py",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\TestsAPI.py",
+              "RelativeDocumentMoniker": "TestsAPI\\TestsAPI.py",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\8_lab\\TestsAPI\\TestsAPI\\TestsAPI.py",
+              "RelativeToolTip": "TestsAPI\\TestsAPI.py",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T17:34:51.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

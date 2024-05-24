@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\tests\\OrderPlacementTest.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|solutionrelative:UITest\\tests\\OrderPlacementTest.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\PageObjects\\BasePage.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|solutionrelative:UITest\\PageObjects\\BasePage.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\tests\\AddProductInCartTest.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|solutionrelative:UITest\\tests\\AddProductInCartTest.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\PageObjects\\MainPage.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|solutionrelative:UITest\\PageObjects\\MainPage.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\PageObjects\\OrderPage.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|solutionrelative:UITest\\PageObjects\\OrderPage.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\PageObjects\\LoginPage.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|solutionrelative:UITest\\PageObjects\\LoginPage.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\TestData\\forMakeOrder.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|solutionrelative:UITest\\TestData\\forMakeOrder.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\tests\\conf.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|solutionrelative:UITest\\tests\\conf.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\UITest.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|solutionrelative:UITest\\UITest.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\TestData\\forAuthUser.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|solutionrelative:UITest\\TestData\\forAuthUser.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\tests\\AuthorizationTest.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|solutionrelative:UITest\\tests\\AuthorizationTest.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\tests\\FindTest.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95AD20A6-D1CC-44F3-AAD1-849477861B0B}|UITest\\UITest.pyproj|solutionrelative:UITest\\tests\\FindTest.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "forMakeOrder.json",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\TestData\\forMakeOrder.json",
+              "RelativeDocumentMoniker": "UITest\\TestData\\forMakeOrder.json",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\TestData\\forMakeOrder.json",
+              "RelativeToolTip": "UITest\\TestData\\forMakeOrder.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T12:53:31.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasePage.py",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\PageObjects\\BasePage.py",
+              "RelativeDocumentMoniker": "UITest\\PageObjects\\BasePage.py",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\PageObjects\\BasePage.py",
+              "RelativeToolTip": "UITest\\PageObjects\\BasePage.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T11:28:58.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderPage.py",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\PageObjects\\OrderPage.py",
+              "RelativeDocumentMoniker": "UITest\\PageObjects\\OrderPage.py",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\PageObjects\\OrderPage.py",
+              "RelativeToolTip": "UITest\\PageObjects\\OrderPage.py",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T10:39:52.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.py",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\PageObjects\\LoginPage.py",
+              "RelativeDocumentMoniker": "UITest\\PageObjects\\LoginPage.py",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\PageObjects\\LoginPage.py",
+              "RelativeToolTip": "UITest\\PageObjects\\LoginPage.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T07:02:54.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.py",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\PageObjects\\MainPage.py",
+              "RelativeDocumentMoniker": "UITest\\PageObjects\\MainPage.py",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\PageObjects\\MainPage.py",
+              "RelativeToolTip": "UITest\\PageObjects\\MainPage.py",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvxQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T08:09:12.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderPlacementTest.py",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\tests\\OrderPlacementTest.py",
+              "RelativeDocumentMoniker": "UITest\\tests\\OrderPlacementTest.py",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\tests\\OrderPlacementTest.py",
+              "RelativeToolTip": "UITest\\tests\\OrderPlacementTest.py",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T10:27:47.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProductInCartTest.py",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\tests\\AddProductInCartTest.py",
+              "RelativeDocumentMoniker": "UITest\\tests\\AddProductInCartTest.py",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\tests\\AddProductInCartTest.py",
+              "RelativeToolTip": "UITest\\tests\\AddProductInCartTest.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T09:28:23.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FindTest.py",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\tests\\FindTest.py",
+              "RelativeDocumentMoniker": "UITest\\tests\\FindTest.py",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\tests\\FindTest.py",
+              "RelativeToolTip": "UITest\\tests\\FindTest.py",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T09:30:06.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorizationTest.py",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\tests\\AuthorizationTest.py",
+              "RelativeDocumentMoniker": "UITest\\tests\\AuthorizationTest.py",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\tests\\AuthorizationTest.py",
+              "RelativeToolTip": "UITest\\tests\\AuthorizationTest.py",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-19T19:29:10.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "conf.py",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\tests\\conf.py",
+              "RelativeDocumentMoniker": "UITest\\tests\\conf.py",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\tests\\conf.py",
+              "RelativeToolTip": "UITest\\tests\\conf.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T05:25:50.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "forAuthUser.json",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\TestData\\forAuthUser.json",
+              "RelativeDocumentMoniker": "UITest\\TestData\\forAuthUser.json",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\TestData\\forAuthUser.json",
+              "RelativeToolTip": "UITest\\TestData\\forAuthUser.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T20:46:46.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UITest.py",
+              "DocumentMoniker": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\UITest.py",
+              "RelativeDocumentMoniker": "UITest\\UITest.py",
+              "ToolTip": "C:\\_VOLGATECH\\3_course\\2_sem\\kk\\9_lab\\UITest\\UITest\\UITest.py",
+              "RelativeToolTip": "UITest\\UITest.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-19T17:19:05.054Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

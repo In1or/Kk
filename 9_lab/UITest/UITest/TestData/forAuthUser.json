@@ -1,0 +1,14 @@
+{
+  "valid": {
+    "login": "Petr",
+    "password": "123123"
+  },
+  "invalid": {
+    "login": "fafsdasdf",
+    "password": "asdfsdfdf"
+  },
+  "empty": {
+    "login": "",
+    "password": ""
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[1-9]\\d*$"
+      },
+      "category_id": {
+        "type": "string",
+        "pattern": "^(1[0-5]|[1-9])$"
+
+      },
+      "title": {
+        "type": "string"
+      },
+      "alias": {
+        "type": "string"
+      },
+      "content": {
+        "type": [ "string", "null" ]
+      },
+      "price": {
+        "type": "string",
+        "pattern": "^\\d+(\\.\\d+)?$"
+      },
+      "old_price": {
+        "type": "string",
+        "pattern": "^-?\\d+(\\.\\d+)?$"
+      },
+      "status": {
+        "type": "string",
+        "enum": [ "0", "1" ]
+      },
+      "keywords": {
+        "type": [ "string", "null" ]
+      },
+      "description": {
+        "type": [ "string", "null" ]
+      },
+      "img": {
+        "type": "string",
+        "pattern": "^.+\\.(jpg|jpeg|png|gif|svg|WebP)$"
+      },
+      "hit": {
+        "type": "string",
+        "enum": [ "0", "1", "2" ]
+      },
+      "cat": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "id",
+      "category_id",
+      "title",
+      "alias",
+      "content",
+      "price",
+      "old_price",
+      "status",
+      "keywords",
+      "description",
+      "img",
+      "hit",
+      "cat"
+    ]
+  }
+}
